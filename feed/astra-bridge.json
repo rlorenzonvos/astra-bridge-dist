@@ -1,0 +1,16 @@
+{
+  "name": "ASTRA Bridge",
+  "slug": "astra-bridge",
+  "version": "6.2.0",
+  "download_url": "https://github.com/rlorenzonvos/astra-bridge-dist/releases/download/v6.2.0/astra-bridge-6.2.0.zip",
+  "sidecar_url": "https://github.com/rlorenzonvos/astra-bridge-dist/releases/download/v6.2.0/astra-bridge-6.2.0.zip.sig.v2.json",
+  "requires": "6.0",
+  "requires_php": "8.0",
+  "last_updated": "2026-06-19 18:34:08 UTC",
+  "homepage": "https://justvisual.it",
+  "sections": {
+    "changelog": "Self-update firmato Ed25519 (catena ROOT->RELEASE, secret-free)."
+  },
+  "signature_algo": "ed25519",
+  "mode": "published"
+}
